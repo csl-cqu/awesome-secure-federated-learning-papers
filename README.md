@@ -19,7 +19,7 @@ A curated list of security and privacy federated learning publications, organize
 
 **Data Poison**
 
-| Title                                                        | Team/Authors | venue and year | code |
+| Title                                                        | Team/Authors | Venue and year | code |
 | ------------------------------------------------------------ | ------------ | -------------- | ---- |
 | [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733) | NYU          | arXiv 2017     |      |
 | [Backdoor Attacks against Learning Systems](https://ieeexplore.ieee.org/abstract/document/8228656) | LU           | CNS 2017       |      |
@@ -36,7 +36,7 @@ A curated list of security and privacy federated learning publications, organize
 
 **Model Poison**
 
-| Title                                                        | Team/Authors | venue and year | code |
+| Title                                                        | Team/Authors | Venue and year | code |
 | ------------------------------------------------------------ | ------------ | -------------- | ---- |
 | [Analyzing Federated Learning through an Adversarial Lens](http://proceedings.mlr.press/v97/bhagoji19a.html) | PU           | ICML 2019      |      |
 | [Can You Really Backdoor Federated Learning?](https://arxiv.org/abs/1911.07963) | CU           | arXiv 2019     |      |
@@ -47,7 +47,7 @@ A curated list of security and privacy federated learning publications, organize
 
 **Data-based inspection**
 
-| Title                                                        | Team/Authors | venue and year                                            | code |
+| Title                                                        | Team/Authors | Venue and year                                            | code |
 | ------------------------------------------------------------ | ------------ | --------------------------------------------------------- | ---- |
 | [Spectral Signatures in Backdoor Attacks](https://arxiv.org/abs/1811.00636) | MIT          | NeurIPS 2018                                              |      |
 | [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/pdf/1811.03728.pdf) | ??           | arXiv 2018                                                |      |
