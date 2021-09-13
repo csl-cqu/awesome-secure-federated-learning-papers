@@ -50,7 +50,7 @@ A curated list of security and privacy federated learning publications, organize
 | Title                                                        | Team/Authors | Venue and year                                            | code |
 | ------------------------------------------------------------ | ------------ | --------------------------------------------------------- | ---- |
 | [Spectral Signatures in Backdoor Attacks](https://arxiv.org/abs/1811.00636) | MIT          | NeurIPS 2018                                              |      |
-| [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/pdf/1811.03728.pdf) | ??           | arXiv 2018                                                |      |
+| [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/pdf/1811.03728.pdf) | Brex         | arXiv 2018                                                |      |
 | [Poison as a Cure: Detecting & Neutralizing Variable-Sized Backdoor Attacks in Deep Neural Networks](https://arxiv.org/abs/1911.08040) | NTU          | arXiv 2019                                                |      |
 | [STRIP: A Defence Against Trojan Attacks on Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3359789.3359790) | Njust        | ACSAC 2019                                                |      |
 | [ABS: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation](https://dl.acm.org/doi/abs/10.1145/3319535.3363216) | PU           | CCS 2019                                                  |      |
