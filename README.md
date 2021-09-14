@@ -19,20 +19,20 @@ A curated list of security and privacy federated learning publications, organize
 
 **Data Poison**
 
-| Title                                                        | Team/Authors | Venue and year | code |
-| ------------------------------------------------------------ | ------------ | -------------- | ---- |
-| [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733) | NYU          | arXiv 2017     |      |
-| [Backdoor Attacks against Learning Systems](https://ieeexplore.ieee.org/abstract/document/8228656) | LU           | CNS 2017       |      |
-| [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792) | UMD          | NeurIPS 2018   |      |
-| [DBA: DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING](https://openreview.net/forum?id=rkgyS0VFvr) | ZJU          | ICLR 2019      |      |
-| [Clean-Label Backdoor Attacks](clean_label_backdoor_attacks.pdf) | MIT          | ICLR 2019      |      |
-| [Transferable Clean-Label Poisoning Attacks on Deep Neural Nets](http://proceedings.mlr.press/v97/zhu19a.html) | UMD          | ICML 2019      |      |
-| [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://arxiv.org/pdf/2007.05084.pdf) | UWM          | arXiv 2020     |      |
-| [Data Poisoning Attacks on Federated Machine Learning](https://arxiv.org/abs/2004.10020) | CAS          | arXiv 2020     |      |
-| [Clean-Label Backdoor Attacks on Video Recognition Models](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.html) | FUDAN        | CVPR 2020      |      |
-| [MetaPoison: Practical General-purpose Clean-label Data Poisoning](https://arxiv.org/abs/2004.00225) | UMD          | NeurIPS 2020   |      |
-| [poison attacks on federated learning based IoT intrusion detection system](https://www.ndss-symposium.org/wp-content/uploads/2020/04/diss2020-23003-paper.pdf) | TU Darmstadt | DISS 2020      |      |
-|                                                              |              |                |      |
+| Title                                                        | Team/Authors | Venue and year | code                                                 |
+| ------------------------------------------------------------ | ------------ | -------------- | ---------------------------------------------------- |
+| [BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain](https://arxiv.org/abs/1708.06733) | NYU          | arXiv 2017     |                                                      |
+| [Backdoor Attacks against Learning Systems](https://ieeexplore.ieee.org/abstract/document/8228656) | LU           | CNS 2017       |                                                      |
+| [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792) | UMD          | NeurIPS 2018   |                                                      |
+| [DBA: DISTRIBUTED BACKDOOR ATTACKS AGAINST FEDERATED LEARNING](https://openreview.net/forum?id=rkgyS0VFvr) | ZJU          | ICLR 2019      | decomposes global trigger to all adversaries parties |
+| [Clean-Label Backdoor Attacks](clean_label_backdoor_attacks.pdf) | MIT          | ICLR 2019      |                                                      |
+| [Transferable Clean-Label Poisoning Attacks on Deep Neural Nets](http://proceedings.mlr.press/v97/zhu19a.html) | UMD          | ICML 2019      |                                                      |
+| [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://arxiv.org/pdf/2007.05084.pdf) | UWM          | arXiv 2020     |                                                      |
+| [Data Poisoning Attacks on Federated Machine Learning](https://arxiv.org/abs/2004.10020) | CAS          | arXiv 2020     | send model updates derived from mislabeled data      |
+| [Clean-Label Backdoor Attacks on Video Recognition Models](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.html) | FUDAN        | CVPR 2020      |                                                      |
+| [MetaPoison: Practical General-purpose Clean-label Data Poisoning](https://arxiv.org/abs/2004.00225) | UMD          | NeurIPS 2020   |                                                      |
+| [poison attacks on federated learning based IoT intrusion detection system](https://www.ndss-symposium.org/wp-content/uploads/2020/04/diss2020-23003-paper.pdf) | TU Darmstadt | DISS 2020      |                                                      |
+|                                                              |              |                |                                                      |
 
 **Model Poison**
 
