@@ -4,14 +4,51 @@ A curated list of security and privacy federated learning publications, organize
 
 ## System Overview
 
-| Title                                                        | Team/Authors    | Venue and Year | code |
+### system design
+
+Apply deep neural network in large scale data
+
+| Title                                                        | Team/Authors    | Venue and Year | Note |
 | ------------------------------------------------------------ | --------------- | -------------- | ---- |
 | [Large Scale Distributed Deep Networks](https://proceedings.neurips.cc/paper/2012/file/6aca97005c68f1206823815f66102863-Paper.pdf) | Google Research | NeurIPS 2012   |      |
-| [Imagenet classification with deep convolutional neural networks](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | UT              | NeurIPS 2012   |      |
-| [More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server](https://proceedings.neurips.cc/paper/2013/hash/b7bb35b9c6ca2aee2df08cf09d7016c2-Abstract.html) | CMU             | NeurIPS 2013   |      |
 | [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/li_mu) | CMU             | USENIX 2014    |      |
 | [SPARKNET: TRAINING DEEP NETWORKS IN SPARK](https://arxiv.org/abs/1511.06051) | UC              | ICLR 2016      |      |
 | [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) | Google Research | SysML 2019     |      |
+
+### system optimization
+
+decrease system computation and communication cost, handle heterogeneous datasets, promote model performance, system benchmark
+
+| Title                                                        | Team/Authors               | Venue and Year                                               | Note                                                         |
+| ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server](https://proceedings.neurips.cc/paper/2013/hash/b7bb35b9c6ca2aee2df08cf09d7016c2-Abstract.html) | CMU                        | NeurIPS 2013                                                 |                                                              |
+| [Federated Bayesian Optimization via Thompson Sampling](http://arxiv.org/abs/2010.10154) | NUS                        | NeurIPS 2020                                                 |                                                              |
+| [Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach](https://proceedings.neurips.cc/paper_files/paper/2020/hash/24389bfe4fe2eba8bf9aa9203a44cdad-Abstract.html) | MIT                        | NeurIPS 2020                                                 | find a global model that clients can easily fine turning by their own dataset |
+| [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](http://proceedings.mlr.press/v119/karimireddy20a.html) | Google Research            | ICML 2020                                                    |                                                              |
+| [Adaptive Kernel Value Caching for SVM Training](https://ieeexplore.ieee.org/document/8890007/) | NUS                        | IEEE Transactions on Neural Networks and Learning Systems 2019 |                                                              |
+| [Practical Federated Gradient Boosting Decision Trees](https://ojs.aaai.org/index.php/AAAI/article/view/5895) | NUS                        | AAAI 2020                                                    |                                                              |
+| [A Performance Evaluation of Federated Learning Algorithms](https://dl.acm.org/doi/10.1145/3286490.3286559) | Fraunhofer-Chalmers Centre | DIDL 2018                                                    | benchmark                                                    |
+| [Federated Multi-Task Learning](http://papers.neurips.cc/paper/7029-federated-multi-task-learning.pdf) | Stanford                   | NeurIPS 2017                                                 | Heterogeneous Multi Task Learning                            |
+| [Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization](https://proceedings.neurips.cc/paper/2020/file/564127c03caab942e503ee6f810f54fd-Paper.pdf) | CMU                        | NeurIPS 2020                                                 | Heterogeneous                                                |
+| [Exploiting GPUs for Efficient Gradient Boosting Decision Tree Training](https://ieeexplore.ieee.org/document/8727750/) | NUS                        | IEEE Transactions on Parallel and Distributed Systems 2020   |                                                              |
+| [Performance Optimization of Federated Person Re-identification via Benchmark Analysis](https://dl.acm.org/doi/10.1145/3394171.3413814) | NTU                        | MM 20                                                        |                                                              |
+|                                                              |                            |                                                              |                                                              |
+
+### application
+
+edge computing,  image classification , weak keyword prediction
+
+| Title                                                        | Team/Authors | Venue and Year                                             | Note |
+| ------------------------------------------------------------ | ------------ | ---------------------------------------------------------- | ---- |
+| [Group Knowledge Transfer: Federated Learning of Large CNNs at the Edge](https://proceedings.neurips.cc/paper/2020/file/a1d4c20b182ad7137ab3606f0e3fc8a4-Paper.pdf) | USC          | NeurIPS 2020                                               |      |
+| [Imagenet classification with deep convolutional neural networks](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | UT           | NeurIPS 2012                                               |      |
+| [Federated Learning for Keyword Spotting](https://ieeexplore.ieee.org/document/8683546/) |              | ICASSP 2019                                                |      |
+| [Model-Contrastive Federated Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.pdf) | NUS          | CVPR 2021                                                  |      |
+| [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://ieeexplore.ieee.org/document/8761315/) | Kyoto-u      | ICC 2019                                                   |      |
+| [Federated Meta-Learning for Fraudulent Credit Card Detection](https://www.ijcai.org/proceedings/2020/642) | XJTU         | IJCAI 2020                                                 |      |
+| [Privacy Regulation Aware Process Mapping in Geo-Distributed Cloud Data Centers](https://ieeexplore.ieee.org/document/8632727/) | SZU          | IEEE Transactions on Parallel and Distributed Systems 2019 |      |
+
+
 
 ## Integrity Attacks and Defense
 
