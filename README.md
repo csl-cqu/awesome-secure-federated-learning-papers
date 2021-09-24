@@ -1,6 +1,16 @@
-# Awesome-Security-and-Privacy-Federated-Learning
+# Awesome S&P Collaborative Learning Papers
 
 A curated list of security and privacy federated learning publications, organized by the order **System Overview**, **Integrity Attacks and Defenses**, **Privacy Threats and Defenses**
+
+
+## <font color='red'>Comments </font>
+- 把federated learning改为collaborative learning
+- 年份从高到低
+- 期刊的名字也要缩写一下 （差的期刊或会议就不用加上了）
+- integrity defense分类不够细
+- privacy 分类不够细，需要更多insight
+
+
 
 ## System Overview
 
