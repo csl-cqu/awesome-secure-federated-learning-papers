@@ -2,9 +2,31 @@
 
 A curated list of security and privacy federated learning publications, organized by the order **System Overview**, **Integrity Attacks and Defenses**, **Privacy Threats and Defenses**
 
-[TOC]
+## Table of Content
 
-
+- [Awesome S&P Collaborative Learning Papers](#awesome-s-p-collaborative-learning-papers)
+  * [System Overview](#system-overview)
+    + [Centralized](#centralized)
+    + [Decentralized](#decentralized)
+    + [Federated Learning](#federated-learning)
+    + [Application](#application)
+  * [Integrity Attacks](#integrity-attacks)
+    + [Data Poison](#data-poison)
+    + [Model Poison](#model-poison)
+  * [Integrity Defenses](#integrity-defenses)
+    + [Data Based Inspection](#data-based-inspection)
+    + [Model Based Inspection](#model-based-inspection)
+  * [Privacy Threats](#privacy-threats)
+    + [Membership Inference Attacks](#membership-inference-attacks)
+    + [Property Inference Attacks](#property-inference-attacks)
+    + [Sample Inference Attacks](#sample-inference-attacks)
+    + [Membership & Property](#membership---property)
+  * [Privacy Defenses](#privacy-defenses)
+    + [Differential Privacy(DP)](#differential-privacy-dp-)
+    + [Homomorphic Encryption(HE)](#homomorphic-encryption-he-)
+    + [Secure Muti-Party Computation(SMC)](#secure-muti-party-computation-smc-)
+    + [DP & SMC](#dp---smc)
+    + [DP & Trusted Hardware](#dp---trusted-hardware)
 
 ## System Overview
 
