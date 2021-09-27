@@ -40,6 +40,17 @@ A curated list of security and privacy federated learning publications, organize
 
 ### Decentralized
 
+* s
+
+* [Decentralized Bayesian Learning over Graphs](https://arxiv.org/abs/1905.10466), arXiv 2019 .
+
+* [Communication Compression for Decentralized Training](https://papers.nips.cc/paper/2018/file/44feb0096faa8326192570788b38c1d1-Paper.pdf), NeurIPS 2018 .
+
+* [an Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent](https://proceedings.neurips.cc/paper/2017/file/f75526659f31040afeb61cb7133e4e6d-Paper.pdf), NeurIPS 2017 .
+
+* [Fully Decentralized Policies for Multi-Agent Systems: An Information Theoretic Approach](https://proceedings.neurips.cc/paper/2017/file/8bb88f80d334b1869781beb89f7b73be-Paper.pdf), NeurIPS 2017 .
+
+
 ### Federated Learning
 
 * [Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning](https://www.aaai.org/AAAI21Papers/AAAI-8990.ZawadS.pdf) , AAAI 2021 .
