@@ -40,9 +40,19 @@ A curated list of security and privacy federated learning publications, organize
 
 ### Decentralized
 
-* s
+* [Decentralized Learning With Lazy and Approximate Dual Gradients](https://ieeexplore.ieee.org/document/9347822/), IEEE Trans. Signal Process. 2021 .
 
-* [Decentralized Bayesian Learning over Graphs](https://arxiv.org/abs/1905.10466), arXiv 2019 .
+* [Consensus Control for Decentralized Deep Learning](https://arxiv.org/pdf/2102.04828.pdf), ICML 2021 .
+
+* [Cross-Gradient Aggregation for Decentralized Learning from Non-IID data](http://arxiv.org/abs/2103.02051), ICML 2021 .
+
+* [Byzantine-Resilient Decentralized Policy Evaluation With Linear Function Approximation](https://ieeexplore.ieee.org/document/9462519/), IEEE Trans. Signal Process. 2021 .
+
+* [Stability and Generalization of Decentralized Stochastic Gradient Descent](https://ojs.aaai.org/index.php/AAAI/article/view/17173), AAAI 2021 .
+
+* [Optimal and Practical Algorithms for Smooth and Strongly Convex Decentralized Optimization](https://proceedings.neurips.cc/paper/2020/file/d530d454337fb09964237fecb4bea6ce-Paper.pdf), NeurIPS 2020 .
+
+* [A Decentralized Parallel Algorithm for Training Generative Adversarial Nets](https://par.nsf.gov/servlets/purl/10233157) , NeurIPS 2020 .
 
 * [Communication Compression for Decentralized Training](https://papers.nips.cc/paper/2018/file/44feb0096faa8326192570788b38c1d1-Paper.pdf), NeurIPS 2018 .
 
