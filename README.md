@@ -10,6 +10,7 @@ A curated list of security and privacy federated learning publications, organize
     + [Decentralized](#decentralized)
     + [Federated Learning](#federated-learning)
     + [Application](#application)
+    + [Survey](#survey)
   * [Integrity Attacks](#integrity-attacks)
     + [Data Poison](#data-poison)
     + [Model Poison](#model-poison)
@@ -85,6 +86,12 @@ A curated list of security and privacy federated learning publications, organize
 * [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://ieeexplore.ieee.org/document/8761315/) , ICC 2019 
 * [Federated Learning for Keyword Spotting](https://ieeexplore.ieee.org/document/8683546/) , ICASSP 2019 
 * [Imagenet classification with deep convolutional neural networks](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) , NeurIPS 2012 
+
+### Survey
+
+* [A Survey on Federated Learning: The Journey From Centralized to Distributed On-Site Learning and Beyond](https://ieeexplore.ieee.org/document/9220780/) , IEEE Internet Things J. 2021
+* [A survey on security and privacy of federated learning](https://linkinghub.elsevier.com/retrieve/pii/S0167739X20329848), Future Gener. Comput. Syst. 2021
+* [A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions](https://dl.acm.org/doi/10.1145/3460427), ACM Comput. Surv. 2021
 
 ## Integrity Attacks
 
