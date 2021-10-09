@@ -195,7 +195,7 @@ A curated list of security and privacy federated learning publications, organize
 ### Secure Muti-Party Computation(SMC)
 
 * [Privacy-Preserving Federated Learning Framework Based on Chained Secure Multiparty Computing](https://ieeexplore.ieee.org/document/9187932/) , IEEE Internet Things J.2021 
-* [Keep Your Data Locally: Federated-Learning-Based Data Privacy Preservation in Edge Computing](https://ieeexplore.ieee.org/document/9318241/) , IEEE Network 2020 
+* [Keep Your Data Locally: Federated-Learning-Based Data Privacy Preservation in Edge Computing](https://ieeexplore.ieee.org/document/9318241/) , IEEE Network 2021 
 * [HybridAlpha: An Efficient Approach for Privacy-Preserving Federated Learning](http://dl.acm.org/citation.cfm?doid=3338501.3357371) , AISec 2019 
 * [Chameleon: A Hybrid Secure Computation Framework for Machine Learning Applications](https://dl.acm.org/doi/10.1145/3196494.3196522) , CCS 2018 
 * [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://dl.acm.org/doi/10.1145/3133956.3133982) , CCS 2017 
