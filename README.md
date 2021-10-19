@@ -42,25 +42,15 @@ A curated list of security and privacy federated learning publications, organize
 ### Decentralized
 
 * [Decentralized Learning With Lazy and Approximate Dual Gradients](https://ieeexplore.ieee.org/document/9347822/), IEEE Trans. Signal Process. 2021 
-
 * [Consensus Control for Decentralized Deep Learning](https://arxiv.org/pdf/2102.04828.pdf), ICML 2021 
-
 * [Cross-Gradient Aggregation for Decentralized Learning from Non-IID data](http://arxiv.org/abs/2103.02051), ICML 2021 
-
 * [Byzantine-Resilient Decentralized Policy Evaluation With Linear Function Approximation](https://ieeexplore.ieee.org/document/9462519/), IEEE Trans. Signal Process. 2021 
-
 * [Stability and Generalization of Decentralized Stochastic Gradient Descent](https://ojs.aaai.org/index.php/AAAI/article/view/17173), AAAI 2021 
-
 * [Optimal and Practical Algorithms for Smooth and Strongly Convex Decentralized Optimization](https://proceedings.neurips.cc/paper/2020/file/d530d454337fb09964237fecb4bea6ce-Paper.pdf), NeurIPS 2020 
-
 * [A Decentralized Parallel Algorithm for Training Generative Adversarial Nets](https://par.nsf.gov/servlets/purl/10233157) , NeurIPS 2020 
-
 * [Communication Compression for Decentralized Training](https://papers.nips.cc/paper/2018/file/44feb0096faa8326192570788b38c1d1-Paper.pdf), NeurIPS 2018 
-
 * [an Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent](https://proceedings.neurips.cc/paper/2017/file/f75526659f31040afeb61cb7133e4e6d-Paper.pdf), NeurIPS 2017 
-
 * [Fully Decentralized Policies for Multi-Agent Systems: An Information Theoretic Approach](https://proceedings.neurips.cc/paper/2017/file/8bb88f80d334b1869781beb89f7b73be-Paper.pdf), NeurIPS 2017 
-
 
 ### Federated Learning
 
@@ -92,6 +82,8 @@ A curated list of security and privacy federated learning publications, organize
 * [A Survey on Federated Learning: The Journey From Centralized to Distributed On-Site Learning and Beyond](https://ieeexplore.ieee.org/document/9220780/) , IEEE Internet Things J. 2021
 * [A survey on security and privacy of federated learning](https://linkinghub.elsevier.com/retrieve/pii/S0167739X20329848), Future Gener. Comput. Syst. 2021
 * [A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions](https://dl.acm.org/doi/10.1145/3460427), ACM Comput. Surv. 2021
+* [Privacy and Robustness in Federated Learning: Attacks and Defenses](http://arxiv.org/abs/2012.06337), arXiv 2020
+* [Threats to Federated Learning: A Survey](http://arxiv.org/abs/2003.02133), arXiv 2020
 
 ## Integrity Attacks
 
