@@ -190,7 +190,11 @@ A curated list of security and privacy federated learning publications, organize
 
 ### Homomorphic Encryption(HE)
 
+* [Secure Logistic Regression Based on Homomorphic Encryption: Design and Evaluation](http://medinform.jmir.org/2018/2/e19/), JMIR 2018
+* [Privacy-Preserving Deep Learning via Additively Homomorphic Encryption](http://ieeexplore.ieee.org/document/8241854/), IEEE Trans.Inform.Forensic Secur. 2018
 * [Oblivious Neural Network Predictions via MiniONN Transformations](https://dl.acm.org/doi/10.1145/3133956.3134056) , CCS 2017 
+* [SecureML: A System for Scalable Privacy-Preserving Machine Learning](http://ieeexplore.ieee.org/document/7958569/), Oakland 2017
+* [Scalable and Secure Logistic Regression via Homomorphic Encryption](https://dl.acm.org/doi/10.1145/2857705.2857731), CODASPY 2016
 
 ### Secure Muti-Party Computation(SMC)
 
