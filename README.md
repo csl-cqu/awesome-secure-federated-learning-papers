@@ -129,6 +129,7 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 
 ### Model Based Inspection
 
+* [DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection](https://arxiv.org/pdf/2201.00763.pdf) , NDSS 2022
 * [CRFL: Certifiably Robust Federated Learning against Backdoor Attacks](http://arxiv.org/abs/2106.08283) , ICML 2021
 * [Backdoor attacks and defenses in feature-partitioned collaborative learning](https://arxiv.org/abs/2007.03608) , arXiv 2020
 * [ABS: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation](https://dl.acm.org/doi/abs/10.1145/3319535.3363216) , CCS 2019
