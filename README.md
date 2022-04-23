@@ -21,7 +21,7 @@ A curated list of robust and privacy-preserving collaborative learning publicati
     + [Membership Inference Attacks](#membership-inference-attacks)
     + [Property Inference Attacks](#property-inference-attacks)
     + [Sample Inference Attacks](#sample-inference-attacks)
-    + [Membership &amp; Property](#membership---property)
+    + [Membership &amp; Property](#membership----property)
   * [Privacy Defenses](#privacy-defenses)
     + [Differential Privacy Defences]()
     + [Cryptographic Privacy Defenses]()
@@ -151,6 +151,8 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 * [Beyond inferring class representatives: User-level privacy leakage from federated learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737416) , ICCC 2019
 
 ### Sample Inference Attacks
+* [Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage](https://arxiv.org/pdf/2203.15696v1.pdf), CVPR 2022
+* [GradViT: Gradient Inversion of Vision Transformers](https://arxiv.org/pdf/2203.11894.pdf), CVPR 2022
 * [See through Gradients: Image Batch Recovery via GradInversion](https://openaccess.thecvf.com/content/CVPR2021/html/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.html), CVPR 2021
 * [ Revealing and Protecting Labels in Distributed Training](https://proceedings.neurips.cc/paper/2021/hash/0d924f0e6b3fd0d91074c22727a53966-Abstract.html) , NeurIPS 2021
 * [CAFE: Catastrophic Data Leakage in Vertical Federated Learning](https://arxiv.org/abs/2110.15122)  , NeurIPS 2021
@@ -222,8 +224,8 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 #### DP & Trusted Hardware
 
 * [Efficient deep learning on multi-source private data](https://arxiv.org/pdf/1807.06689.pdf) , arXiv 2018
-
 ### Practical Privacy Defenses
+* [Provable Defense against Privacy Leakage in Federated Learning from Representation Perspective](https://arxiv.org/pdf/2012.06043.pdf), CVPR 2021
 * [Privacy-preserving collaborative learning with automatic transformation search](https://personal.ntu.edu.sg/tianwei.zhang/paper/cvpr2021.pdf) , CVPR 2021
 * [PrivateDL: Privacy-preserving collaborative deep learning against leakage from gradient sharing](https://onlinelibrary.wiley.com/doi/full/10.1002/int.22241) , International Journal of Intelligent Systems 2020
 ## Hybrid Defenses and Beyond
