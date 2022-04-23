@@ -153,6 +153,7 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 ### Sample Inference Attacks
 * [Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage](https://arxiv.org/pdf/2203.15696v1.pdf), CVPR 2022
 * [GradViT: Gradient Inversion of Vision Transformers](https://arxiv.org/pdf/2203.11894.pdf), CVPR 2022
+* [Gradient Inversion with Generative Image Prior](https://proceedings.neurips.cc/paper/2021/file/fa84632d742f2729dc32ce8cb5d49733-Paper.pdf), NeurIPS 2021
 * [See through Gradients: Image Batch Recovery via GradInversion](https://openaccess.thecvf.com/content/CVPR2021/html/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.html), CVPR 2021
 * [ Revealing and Protecting Labels in Distributed Training](https://proceedings.neurips.cc/paper/2021/hash/0d924f0e6b3fd0d91074c22727a53966-Abstract.html) , NeurIPS 2021
 * [CAFE: Catastrophic Data Leakage in Vertical Federated Learning](https://arxiv.org/abs/2110.15122)  , NeurIPS 2021
