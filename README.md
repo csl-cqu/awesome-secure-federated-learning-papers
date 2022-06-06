@@ -4,31 +4,36 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 
 ## Table of Content
 
-- [Awesome Secure Collaborative Learning Papers](#awesome-s-p-collaborative-learning-papers)
-  * [System Overview](#system-overview)
-    + [Centralized](#centralized)
-    + [Decentralized](#decentralized)
-    + [Federated Learning](#federated-learning)
-    + [Application](#application)
-    + [Survey](#survey)
-  * [Integrity Attacks](#integrity-attacks)
-    + [Data Poison](#data-poison)
-    + [Model Poison](#model-poison)
-  * [Integrity Defenses](#integrity-defenses)
-    + [Data Based Inspection](#data-based-inspection)
-    + [Model Based Inspection](#model-based-inspection)
-  * [Privacy Threats](#privacy-threats)
-    + [Membership Inference Attacks](#membership-inference-attacks)
-    + [Property Inference Attacks](#property-inference-attacks)
-    + [Sample Inference Attacks](#sample-inference-attacks)
-    + [Membership &amp; Property](#membership----property)
-  * [Privacy Defenses](#privacy-defenses)
-    + [Differential Privacy Defences]()
-    + [Cryptographic Privacy Defenses]()
-    + [Practical Privacy Defenses]()
-  * [Hybrid Defenses and Beyond]()
-    + [Hybrid Defenses]()
-    + [Collaborative Adversarial Training]()
+- [Awesome Secure Collaborative Learning Papers](#awesome-secure-collaborative-learning-papers)
+  - [Table of Content](#table-of-content)
+  - [System Overview](#system-overview)
+    - [Centralized](#centralized)
+    - [Decentralized](#decentralized)
+    - [Federated Learning](#federated-learning)
+    - [Application](#application)
+    - [Survey](#survey)
+  - [Integrity Attacks](#integrity-attacks)
+    - [Data Poison](#data-poison)
+    - [Model Poison](#model-poison)
+  - [Integrity Defenses](#integrity-defenses)
+    - [Data Based Inspection](#data-based-inspection)
+    - [Model Based Inspection](#model-based-inspection)
+  - [Privacy Threats](#privacy-threats)
+    - [Membership Inference Attacks](#membership-inference-attacks)
+    - [Property Inference Attacks](#property-inference-attacks)
+    - [Sample Inference Attacks](#sample-inference-attacks)
+    - [Membership & Property](#membership--property)
+  - [Privacy Defenses](#privacy-defenses)
+    - [Differentially Private Defences](#differentially-private-defences)
+    - [Cryptographic Privacy Defenses](#cryptographic-privacy-defenses)
+      - [Homomorphic Encryption(HE)](#homomorphic-encryptionhe)
+      - [Secure Muti-Party Computation(SMC)](#secure-muti-party-computationsmc)
+      - [DP & SMC](#dp--smc)
+      - [DP & Trusted Hardware](#dp--trusted-hardware)
+    - [Practical Privacy Defenses](#practical-privacy-defenses)
+  - [Hybrid Defenses and Beyond](#hybrid-defenses-and-beyond)
+    - [Hybrid Defenses](#hybrid-defenses)
+    - [Collaborative Adversarial Training](#collaborative-adversarial-training)
 
 ## System Overview
 
@@ -107,7 +112,7 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 * [Data Poisoning Attacks against Autoregressive Models](https://ojs.aaai.org/index.php/AAAI/article/view/10237) , AAAI 2016
 
 ### Model Poison
-
+* [Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning](https://people.cs.umass.edu/~amir/papers/2022-SP-poisoning-FL.pdf), Oakland 2022 
 * [Local Model Poisoning Attacks to Byzantine-Robust Federated Learning](https://www.usenix.org/conference/usenixsecurity20/presentation/fang) , USENIX 2020
 * [How To Backdoor Federated Learning](https://arxiv.org/pdf/2007.05084.pdf) , ICML 2020
 * [Can You Really Backdoor Federated Learning?](https://arxiv.org/abs/1911.07963) , arXiv 2019
@@ -151,6 +156,8 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 * [Beyond inferring class representatives: User-level privacy leakage from federated learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737416) , ICCC 2019
 
 ### Sample Inference Attacks
+* [Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models](https://arxiv.org/abs/2110.13057), ICLR 2022
+* [Bayesian Framework for Gradient Leakage](https://arxiv.org/abs/2111.04706), ICLR 2022
 * [Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage](https://arxiv.org/pdf/2203.15696v1.pdf), CVPR 2022
 * [GradViT: Gradient Inversion of Vision Transformers](https://arxiv.org/pdf/2203.11894.pdf), CVPR 2022
 * [Gradient Inversion with Generative Image Prior](https://proceedings.neurips.cc/paper/2021/file/fa84632d742f2729dc32ce8cb5d49733-Paper.pdf), NeurIPS 2021
