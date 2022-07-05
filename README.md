@@ -94,6 +94,8 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 ## Integrity Attacks
 
 ### Data Poison
+* [Better Trigger Inversion Optimization in Backdoor Scanning](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Tao.pdf) , CVPR 2022
+* [DEFEAT: Deep Hidden Feature Backdoor Attacks by Imperceptible Perturbation and Latent Representation Constraints](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_DEFEAT_Deep_Hidden_Feature_Backdoor_Attacks_by_Imperceptible_Perturbation_and_CVPR_2022_paper.pdf) , CVPR 2022
 * [Invisible backdoor attack with sample-specific triggers](http://openaccess.thecvf.com/content/ICCV2021/html/Li_Invisible_Backdoor_Attack_With_Sample-Specific_Triggers_ICCV_2021_paper.html) , CVPR 2021
 * [LIRA: Learnable, Imperceptible and Robust Backdoor Attacks](http://openaccess.thecvf.com/content/ICCV2021/html/Doan_LIRA_Learnable_Imperceptible_and_Robust_Backdoor_Attacks_ICCV_2021_paper.html) , CVPR 2021
 * [PoisonGAN: Generative Poisoning Attacks Against Federated Learning in Edge Computing Systems](https://ieeexplore.ieee.org/document/9194010/) , IEEE Internet Things J. 2021
@@ -121,14 +123,17 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 ## Integrity Defenses
 
 ### Data Based Inspection
+* [Complex Backdoor Detection by Symmetric Feature Differencing](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Liu.pdf) ,CVPR 2022
 * [FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated Learning from a Client Perspective](https://proceedings.neurips.cc/paper/2021/hash/692baebec3bb4b53d7ebc3b9fabac31b-Abstract.html) , NeurIPS 2021
 * [Scalable Backdoor Detection in Neural Networks](https://arxiv.org/abs/2006.05646) , arXiv 2020 .
 * [Shielding Collaborative Learning: Mitigating Poisoning Attacks through Client-Side Detection](https://ieeexplore.ieee.org/abstract/document/9066920) , TDSC 2020 .
 * [SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems](https://ieeexplore.ieee.org/abstract/document/9283822) , SPW 2020
 * [Systematic Evaluation of Backdoor Data Poisoning Attacks on Image Classifiers](https://openaccess.thecvf.com/content_CVPRW_2020/html/w47/Truong_Systematic_Evaluation_of_Backdoor_Data_Poisoning_Attacks_on_Image_Classifiers_CVPRW_2020_paper.html) , CVPR 2020
+* [Ensemble distillation for robust model fusion in federated learning](https://arxiv.org/pdf/2006.07242.pdf) , NeurIPS 2020
 * [ ABS: Scanning neural networks for back-doors by artificial brain stimulation](https://dl.acm.org/doi/abs/10.1145/3319535.3363216) , SIGSAC
 * [STRIP: A Defence Against Trojan Attacks on Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3359789.3359790) , ACSAC 2019
 * [Poison as a Cure: Detecting &amp; Neutralizing Variable-Sized Backdoor Attacks in Deep Neural Networks](https://arxiv.org/abs/1911.08040) , arXiv 2019
+* [Cronus: Robust and heterogeneous collaborative learning with black-box knowledge transfer](https://arxiv.org/pdf/1912.11279) , arXiv 2019
 * [Spectral Signatures in Backdoor Attacks](https://arxiv.org/abs/1811.00636) , NeurIPS 2018
 * [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/pdf/1811.03728.pdf) , arXiv 2018
 
@@ -136,6 +141,7 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 
 * [DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection](https://arxiv.org/pdf/2201.00763.pdf) , NDSS 2022
 * [CRFL: Certifiably Robust Federated Learning against Backdoor Attacks](http://arxiv.org/abs/2106.08283) , ICML 2021
+* [Ditto: Fair and robust federated learning through personalization](https://arxiv.org/pdf/2012.04221.pdf) , ICML 2021
 * [Backdoor attacks and defenses in feature-partitioned collaborative learning](https://arxiv.org/abs/2007.03608) , arXiv 2020
 * [ABS: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation](https://dl.acm.org/doi/abs/10.1145/3319535.3363216) , CCS 2019
 * [NIC: Detecting Adversarial Samples with Neural Network Invariant Checking](https://par.nsf.gov/servlets/purl/10139597) , NDSS 2019
@@ -152,14 +158,18 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 * [Membership Inference Attacks Against Machine Learning Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958568) , Oakland 2017
 
 ### Property Inference Attacks
+* [Property Inference from Poisoning](https://arxiv.org/pdf/2101.11073.pdf) ,Oakland 2022
 * [Leakage of Dataset Properties in Multi-Party Machine Learning](https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-wanrong) , USENIX 2021
 * [Beyond inferring class representatives: User-level privacy leakage from federated learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737416) , ICCC 2019
 
 ### Sample Inference Attacks
 * [Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models](https://arxiv.org/abs/2110.13057), ICLR 2022
+* [Exploring the Security Boundary of Data Reconstruction via Neuron Exclusivity Analysis](https://arxiv.org/pdf/2010.13356.pdf) ,USENIX 2022
 * [Bayesian Framework for Gradient Leakage](https://arxiv.org/abs/2111.04706), ICLR 2022
 * [Auditing Privacy Defenses in Federated Learning via Generative Gradient Leakage](https://arxiv.org/pdf/2203.15696v1.pdf), CVPR 2022
 * [GradViT: Gradient Inversion of Vision Transformers](https://arxiv.org/pdf/2203.11894.pdf), CVPR 2022
+* [Understanding Training-Data Leakage from Gradients in Neural Networks for Image Classification](https://arxiv.org/pdf/2111.10178.pdf) ,NeurIPS 2021 Workshop
+* [R-gap: Recursive gradient attack on privacy](https://openreview.net/pdf?id=RSU17UoKfJF) ,ICLR 2021
 * [Gradient Inversion with Generative Image Prior](https://proceedings.neurips.cc/paper/2021/file/fa84632d742f2729dc32ce8cb5d49733-Paper.pdf), NeurIPS 2021
 * [See through Gradients: Image Batch Recovery via GradInversion](https://openaccess.thecvf.com/content/CVPR2021/html/Yin_See_Through_Gradients_Image_Batch_Recovery_via_GradInversion_CVPR_2021_paper.html), CVPR 2021
 * [ Revealing and Protecting Labels in Distributed Training](https://proceedings.neurips.cc/paper/2021/hash/0d924f0e6b3fd0d91074c22727a53966-Abstract.html) , NeurIPS 2021
@@ -167,6 +177,7 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 * [Label Inference Attacks Against Vertical Federated Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/fu) , USENIX 2021
 * [Knowledge-Enriched Distributional Model Inversion Attacks](http://openaccess.thecvf.com/content/ICCV2021/html/Chen_Knowledge-Enriched_Distributional_Model_Inversion_Attacks_ICCV_2021_paper.html) , CVPR 2021
 * [Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix](http://arxiv.org/abs/2106.06089) , ICML 2021
+* [Rethinking privacy preserving deep learning: How to evaluate and thwart privacy attacks](https://arxiv.org/pdf/2006.11601.pdf) ,arXiv 2020
 * [Inverting Gradients–How easy is it to break privacy in federated learning](https://arxiv.org/abs/2003.14053) , arXiv 2020
 * [iDLG: Improved Deep Leakage from Gradients](https://arxiv.org/abs/2001.02610) , arXiv 2020
 * [Deep Leakage from Gradients](https://proceedings.neurips.cc/paper/2019/hash/60a6c4002cc7b29142def8871531281a-Abstract.html) , NeurIPS 2019
@@ -206,6 +217,7 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 ### Cryptographic Privacy Defenses
 
 #### Homomorphic Encryption(HE)
+* [Efficient dropout-resilient aggregation for privacy-preserving machine learning](https://arxiv.org/pdf/2203.17044.pdf) ,IEEE Trans. Inf. Forensics Secur 2022
 * [GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks](https://arxiv.org/abs/2105.01827) , NDSS 2021
 * [Batchcrypt: Efficient homomorphic encryption for cross-silo federated learning](https://www.usenix.org/conference/atc20/presentation/zhang-chengliang) , USENIX 2020
 * [Privacy-Preserving Federated Deep Learning with Irregular Users](https://ieeexplore.ieee.org/abstract/document/9130089/) , IEEE Trans Dependable Secure Comput 2020
@@ -233,9 +245,13 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 
 * [Efficient deep learning on multi-source private data](https://arxiv.org/pdf/1807.06689.pdf) , arXiv 2018
 ### Practical Privacy Defenses
+* [PRECODE-A Generic Model Extension to Prevent Deep Gradient Leakage](https://arxiv.org/pdf/2108.04725.pdf) , CVPR 2022
+* [Soteria: Provable defense against privacy leakage in federated learning from representation perspective](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.pdf) ,CVPR 2021
 * [Provable Defense against Privacy Leakage in Federated Learning from Representation Perspective](https://arxiv.org/pdf/2012.06043.pdf), CVPR 2021
 * [Privacy-preserving collaborative learning with automatic transformation search](https://personal.ntu.edu.sg/tianwei.zhang/paper/cvpr2021.pdf) , CVPR 2021
 * [PrivateDL: Privacy-preserving collaborative deep learning against leakage from gradient sharing](https://onlinelibrary.wiley.com/doi/full/10.1002/int.22241) , International Journal of Intelligent Systems 2020
+* [Instahide: Instance-hiding schemes for private distributed learning](https://arxiv.org/pdf/2010.02772.pdf) ,ICML 2020
+* [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/pdf/1710.09412.pdf) ,ICLR 2018
 ## Hybrid Defenses and Beyond
 ### Hybrid Defenses
 * [Privacy-preserving Byzantine-robust federated learning](https://www.sciencedirect.com/science/article/pii/S0920548921000568) , Comput. Stand 2022
