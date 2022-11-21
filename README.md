@@ -84,8 +84,9 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 * [Imagenet classification with deep convolutional neural networks](https://proceedings.neurips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) , NeurIPS 2012
 
 ### Survey
-
+* [Advances and open problems in federated learning](https://www.nowpublishers.com/article/Details/MAL-083) , 	Found. Trends Mach. Learn. 2021
 * [A Survey on Federated Learning: The Journey From Centralized to Distributed On-Site Learning and Beyond](https://ieeexplore.ieee.org/document/9220780/) , IEEE Internet Things J. 2021
+* [A survey on federated learning systems: vision, hyper and reality for data privacy and protection](https://ieeexplore.ieee.org/abstract/document/9599369/) ,IEEE Trans Knowl Data Eng 2021
 * [A survey on security and privacy of federated learning](https://linkinghub.elsevier.com/retrieve/pii/S0167739X20329848), Future Gener. Comput. Syst. 2021
 * [A Comprehensive Survey of Privacy-preserving Federated Learning: A Taxonomy, Review, and Future Directions](https://dl.acm.org/doi/10.1145/3460427), ACM Comput. Surv. 2021
 * [Privacy and Robustness in Federated Learning: Attacks and Defenses](http://arxiv.org/abs/2012.06337), arXiv 2020
@@ -138,8 +139,10 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 * [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/pdf/1811.03728.pdf) , arXiv 2018
 
 ### Model Based Inspection
-
+* [Deep learning backdoors](https://link.springer.com/chapter/10.1007/978-3-030-98795-4_13) , Security and Artificial Intelligence 2022
 * [DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection](https://arxiv.org/pdf/2201.00763.pdf) , NDSS 2022
+* [Baffle: backdoor detection via feedback-based federated learning](https://ieeexplore.ieee.org/abstract/document/9546463/) , ICDCS 2021
+* [Defending against backdoors in federated learning with robust learning rate](https://ojs.aaai.org/index.php/AAAI/article/view/17118) , AAAI 2021
 * [CRFL: Certifiably Robust Federated Learning against Backdoor Attacks](http://arxiv.org/abs/2106.08283) , ICML 2021
 * [Ditto: Fair and robust federated learning through personalization](https://arxiv.org/pdf/2012.04221.pdf) , ICML 2021
 * [Backdoor attacks and defenses in feature-partitioned collaborative learning](https://arxiv.org/abs/2007.03608) , arXiv 2020
@@ -153,6 +156,7 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 
 ### Membership Inference Attacks
 * [Beyond Class-Level Privacy Leakage: Breaking Record-Level Privacy in Federated Learning](https://ieeexplore.ieee.org/abstract/document/9456909/) , IEEE Internet Things J. 2021
+* [Analyzing user-level privacy attack against federated learning](https://ieeexplore.ieee.org/abstract/document/9109557/) , J-SAC 2020
 * [GAN Enhanced Membership Inference: A Passive LocalAttack in Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9148790) , ICC 2020
 * [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://ieeexplore.ieee.org/document/8835245/) , Oakland 2019
 * [Membership Inference Attacks Against Machine Learning Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958568) , Oakland 2017
@@ -189,12 +193,15 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 ## Privacy Defenses
 
 ### Differentially Private Defences
-* [Accurate Differentially Private Deep Learning on the Edge](https://ieeexplore.ieee.org/abstract/document/9372811/) , IEEE Trans Parallel Distrib Syst 2021
-* [User-Level Privacy-Preserving Federated Learning: Analysis and Performance Optimization](https://ieeexplore.ieee.org/abstract/document/9347706/) , IEEE Trans Mob Comput 2021
+* [Differentially private byzantine-robust federated learning](https://ieeexplore.ieee.org/abstract/document/9757841/) , 	IEEE Trans. Parallel Distrib. Syst. 2022
+* [Topology-aware differential privacy for decentralized image classification](https://ieeexplore.ieee.org/abstract/document/9515999/) , IEEE T CIRC SYST VID 2021
+* [Evaluating gradient inversion attacks and defenses in federated learning](https://proceedings.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html) , NeurIPS 2021
+* [Accurate Differentially Private Deep Learning on the Edge](https://ieeexplore.ieee.org/abstract/document/9372811/) , IEEE Trans Parallel Distrib Syst. 2021
+* [User-Level Privacy-Preserving Federated Learning: Analysis and Performance Optimization](https://ieeexplore.ieee.org/abstract/document/9347706/) , IEEE Trans Mob Comput. 2021
 * [Gradient-leakage resilient federated learning](https://ieeexplore.ieee.org/abstract/document/9546481/) , ICDCS 2021
 * [Pain-FL: Personalized Privacy-Preserving Incentive for Federated Learning](https://ieeexplore.ieee.org/abstract/document/9565851/) , IEEE J. Sel. Areas Commun. 2021
 * [Romoa: Robust Model Aggregation for the Resistance of Federated Learning to Model Poisoning Attacks](https://link.springer.com/chapter/10.1007/978-3-030-88418-5_23) , ESORICS 2021
-* [Privacy Threat and Defense for Federated Learning with Non-iid Data in AIoT](https://ieeexplore.ieee.org/abstract/document/9408373/) , IEEE Trans Industr Inform 2021
+* [Privacy Threat and Defense for Federated Learning with Non-iid Data in AIoT](https://ieeexplore.ieee.org/abstract/document/9408373/) , IEEE Trans Industr Inform. 2021
 * [Differentially Private and Communication Efficient Collaborative Learning](https://www.aaai.org/AAAI21Papers/AAAI-1503.DingJ.pdf), AAAI 2021
 * [FLAME: Differentially Private Federated Learning in the Shuffle Model](https://www.aaai.org/AAAI21Papers/AAAI-4838.LiuR.pdf) , AAAI 2021
 * [Local Differential Privacy-Based Federated Learning for Internet of Things](https://ieeexplore.ieee.org/document/9253545/) , IEEE Internet Things J. 2021
@@ -218,6 +225,7 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 
 #### Homomorphic Encryption(HE)
 * [Efficient dropout-resilient aggregation for privacy-preserving machine learning](https://arxiv.org/pdf/2203.17044.pdf) ,IEEE Trans. Inf. Forensics Secur 2022
+* [Secure neuroimaging analysis using federated learning with homomorphic encryption](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12088/1208814/Secure-neuroimaging-analysis-using-federated-learning-with-homomorphic-encryption/10.1117/12.2606256.short) , SIPAIM 2021
 * [GALA: Greedy ComputAtion for Linear Algebra in Privacy-Preserved Neural Networks](https://arxiv.org/abs/2105.01827) , NDSS 2021
 * [Batchcrypt: Efficient homomorphic encryption for cross-silo federated learning](https://www.usenix.org/conference/atc20/presentation/zhang-chengliang) , USENIX 2020
 * [Privacy-Preserving Federated Deep Learning with Irregular Users](https://ieeexplore.ieee.org/abstract/document/9130089/) , IEEE Trans Dependable Secure Comput 2020
