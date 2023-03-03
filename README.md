@@ -253,6 +253,7 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 
 * [Efficient deep learning on multi-source private data](https://arxiv.org/pdf/1807.06689.pdf) , arXiv 2018
 ### Practical Privacy Defenses
+* [More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning](https://iqua.ece.toronto.edu/papers/feiwang-infocom23.pdf) , INFOCOM 2023
 * [PRECODE-A Generic Model Extension to Prevent Deep Gradient Leakage](https://arxiv.org/pdf/2108.04725.pdf) , CVPR 2022
 * [Soteria: Provable defense against privacy leakage in federated learning from representation perspective](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.pdf) ,CVPR 2021
 * [Provable Defense against Privacy Leakage in Federated Learning from Representation Perspective](https://arxiv.org/pdf/2012.06043.pdf), CVPR 2021
