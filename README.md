@@ -30,6 +30,7 @@ A curated list of robust and privacy-preserving collaborative learning publicati
       - [Secure Muti-Party Computation(SMC)](#secure-muti-party-computationsmc)
       - [DP & SMC](#dp--smc)
       - [DP & Trusted Hardware](#dp--trusted-hardware)
+      - [Function Encryption(FE)](#function-encryptionfe)
     - [Practical Privacy Defenses](#practical-privacy-defenses)
   - [Hybrid Defenses and Beyond](#hybrid-defenses-and-beyond)
     - [Hybrid Defenses](#hybrid-defenses)
@@ -252,6 +253,8 @@ A curated list of robust and privacy-preserving collaborative learning publicati
 #### DP & Trusted Hardware
 
 * [Efficient deep learning on multi-source private data](https://arxiv.org/pdf/1807.06689.pdf) , arXiv 2018
+#### Function Encryption(FE)
+* [Privacy-Preserving Federated Learning via Functional Encryption, Revisited](https://ieeexplore.ieee.org/abstract/document/10064312) , TIFS 2023
 ### Practical Privacy Defenses
 * [More than Enough is Too Much: Adaptive Defenses against Gradient Leakage in Production Federated Learning](https://iqua.ece.toronto.edu/papers/feiwang-infocom23.pdf) , INFOCOM 2023
 * [PRECODE-A Generic Model Extension to Prevent Deep Gradient Leakage](https://arxiv.org/pdf/2108.04725.pdf) , CVPR 2022
